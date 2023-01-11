@@ -1,0 +1,5 @@
+name: Delta-Test-Server-Plugin
+version: 0.1.0
+api-version: 1.16
+main: com.amansprojects.dtsp.Main
+author: ninjadev64 (IGN ninjagamer64)
